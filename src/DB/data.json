@@ -1,0 +1,61 @@
+[{
+    "id": 1,
+    "picture": "https://images.unsplash.com/photo-1649142738067-1c88b4406cc7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=654&q=80",
+    "price": 149.99,
+    "name": "Classic Gold Watch",
+    "release_date": "2022-01-15"
+}, {
+    "id": 2,
+    "picture": "https://images.unsplash.com/photo-1644566622057-baae2f78f652?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=654&q=80",
+    "price": 199.99,
+    "name": "Sport Silver Watch",
+    "release_date": "2022-02-28"
+}, {
+    "id": 3,
+    "picture": "https://images.unsplash.com/photo-1648200076219-bc83229919ca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=654&q=80",
+    "price": 99.99,
+    "name": "Casual Black Watch",
+    "release_date": "2022-03-10"
+}, {
+    "id": 4,
+    "picture": "https://images.unsplash.com/photo-1647596713107-20b50638fde1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=654&q=80",
+    "price": 249.99,
+    "name": "Dress Blue Watch",
+    "release_date": "2022-04-02"
+}, {
+    "id": 5,
+    "picture": "https://images.unsplash.com/photo-1644566622057-baae2f78f652?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=654&q=80",
+    "price": 79.99,
+    "name": "Outdoor Green Watch",
+    "release_date": "2022-05-20"
+}, {
+    "id": 6,
+    "picture": "https://images.unsplash.com/photo-1645781022816-b12dfe79e08b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=654&q=80",
+    "price": 299.99,
+    "name": "Luxury Rose Gold Watch",
+    "release_date": "2022-06-11"
+}, {
+    "id": 7,
+    "picture": "https://images.unsplash.com/photo-1552585140-bdeefd6b9d6a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=930&q=80",
+    "price": 119.99,
+    "name": "Smart Black Watch",
+    "release_date": "2022-07-01"
+}, {
+    "id": 8,
+    "picture": "https://images.unsplash.com/photo-1615986848736-d3bfe26fbed1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2787&q=80",
+    "price": 179.99,
+    "name": "Swiss Made Watch",
+    "release_date": "2022-08-15"
+}, {
+    "id": 9,
+    "picture": "https://images.unsplash.com/photo-1606741965326-cb990ae01bb2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "price": 69.99,
+    "name": "Fashionable White Watch",
+    "release_date": "2022-09-03"
+}, {
+    "id": 10,
+    "picture": "https://images.unsplash.com/photo-1646722313505-9c8f67727880?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=654&q=80",
+    "price": 399.99,
+    "name": "High-End Titanium Watch",
+    "release_date": "2022-10-22"
+}]
