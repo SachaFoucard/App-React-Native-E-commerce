@@ -12,3 +12,4 @@ The app was built using React Native, a technology that allows developing mobile
 <img width="892" alt="Capture d’écran 2023-04-15 à 22 44 56" src="https://user-images.githubusercontent.com/94567706/232250323-ccf3cbc4-6710-46ff-80f3-ad235c982a15.png">
 <img width="442" alt="Capture d’écran 2023-04-15 à 22 47 25" src="https://user-images.githubusercontent.com/94567706/232250395-e3945623-989c-47b2-a54a-a3413e075929.png">
  
+ 
