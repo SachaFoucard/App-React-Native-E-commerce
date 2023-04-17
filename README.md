@@ -15,3 +15,4 @@ The app was built using React Native, a technology that allows developing mobile
  
  
  
+ 
